@@ -1,7 +1,7 @@
-# AI-Based Cognitive Load Estimation - Project Summary
+# trakifyr - Project Summary
 
 ## Project Overview
-A **FRONTEND-ONLY** Next.js web application for a Final Year Project titled "AI-Based Cognitive Load Estimation via Natural Activity Monitoring". This is a research-oriented platform with no backend, database, or API calls - using only dummy/static data.
+**trakifyr** - Cognitive Load Estimation via Natural Activity Monitoring. A **FRONTEND-ONLY** Next.js web application for a Final Year Project. This is a research-oriented platform with no backend, database, or API calls - using only dummy/static data.
 
 ## Tech Stack
 - **Framework**: Next.js 16.1.0 with App Router
@@ -13,7 +13,7 @@ A **FRONTEND-ONLY** Next.js web application for a Final Year Project titled "AI-
 
 ## Project Structure
 ```
-react-fyp/
+trakifyr-web/
 ├── app/                          # Next.js App Router
 │   ├── layout.jsx                # Root layout with Providers
 │   ├── page.jsx                  # Home page (redirects)

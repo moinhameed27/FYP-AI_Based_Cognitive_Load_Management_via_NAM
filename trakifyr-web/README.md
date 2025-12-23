@@ -1,16 +1,57 @@
-# React + Vite
+# trakifyr
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**trakifyr** - Cognitive Load Estimation via Natural Activity Monitoring
 
-Currently, two official plugins are available:
+A Next.js web application for monitoring and analyzing cognitive load through natural activity monitoring.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
 
-## React Compiler
+### Installation
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+npm install
+```
 
-## Expanding the ESLint configuration
+### Development
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm run dev
+```
+
+The application will be available at `http://localhost:3000`
+
+### Build
+
+```bash
+npm run build
+```
+
+### Start Production Server
+
+```bash
+npm start
+```
+
+## Tech Stack
+
+- **Framework**: Next.js 16.1.0 with App Router
+- **Styling**: Tailwind CSS v4
+- **Charts**: Recharts library
+- **State Management**: React Context API
+
+## Project Structure
+
+- `app/` - Next.js App Router pages
+- `components/` - Reusable React components
+- `context/` - React Context providers
+- `data/` - Static/dummy data files
+
+## Features
+
+- User authentication (localStorage-based)
+- Cognitive load monitoring dashboard
+- Real-time analytics and charts
+- Session logs and reports
+- User profile management
+
+For more details, see [PROJECT_SUMMARY.md](./PROJECT_SUMMARY.md)

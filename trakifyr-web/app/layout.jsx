@@ -2,8 +2,8 @@ import './globals.css'
 import Providers from '@/components/Providers'
 
 export const metadata = {
-  title: 'AI-Based Cognitive Load Estimation',
-  description: 'Final Year Project - Cognitive Load Monitoring System',
+  title: 'trakifyr',
+  description: 'trakifyr - Cognitive Load Estimation via Natural Activity Monitoring',
 }
 
 export default function RootLayout({ children }) {
