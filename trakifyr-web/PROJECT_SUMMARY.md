@@ -1,7 +1,7 @@
 # trakifyr - Project Summary
 
 ## Project Overview
-**trakifyr** - Cognitive Load Estimation via Natural Activity Monitoring. A **FRONTEND-ONLY** Next.js web application for a Final Year Project. This is a research-oriented platform with no backend, database, or API calls - using only dummy/static data.
+**trakifyr** - Cognitive Load Estimation via Natural Activity Monitoring. Part of the **trakifyr-Cognitive_Load_Management_via_NAM** project. A **FRONTEND-ONLY** Next.js web application for a Final Year Project. This is a research-oriented platform with no backend, database, or API calls - using only dummy/static data.
 
 ## Tech Stack
 - **Framework**: Next.js 16.1.0 with App Router
