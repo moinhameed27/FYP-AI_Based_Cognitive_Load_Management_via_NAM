@@ -1,26 +1,20 @@
-# Trackifyr: AI-Based Cognitive Load Estimation via Natural Activity Monitoring
+# trackifyr: AI-Based Cognitive Load Estimation via Natural Activity Monitoring
 
 **Final Year Project (FYP) – Phase I**
 
-Trackifyr is an intelligent AI system designed to estimate cognitive load in real-time by analyzing natural user activities during digital work and study sessions. Unlike traditional digital wellbeing tools that only measure screen time, Trackifyr uses multimodal behavioral signals (facial expressions, gaze patterns, keyboard, and mouse interactions) to classify cognitive load into three categories: **Low**, **Medium**, and **High**.
+trackifyr is an intelligent AI system designed to estimate cognitive load in real-time by analyzing natural user activities during digital work and study sessions. Unlike traditional digital wellbeing tools that only measure screen time, trackifyr uses multimodal behavioral signals (facial expressions, gaze patterns, keyboard, and mouse interactions) to classify cognitive load into three categories: **Low**, **Medium**, and **High**.
 
 This repository contains the complete Phase-I development work, including requirement analysis, activity tracking implementation, web dashboard prototype, and initial system architecture.
 
 ---
 
-## 👥 Team Members & Responsibilities
+## 👥 Team Members
 
-| Name | Role | Registration # | Key Responsibilities |
-|------|------|----------------|----------------------|
-| **Muhammad Moin U Din** (Group Leader) | Backend / ML Pipeline | BCSF22M023 | Data collection, model development (CNN+LSTM), system integration, activity monitoring |
-| **Muhammad Junaid Malik** | System Design / Feature Extraction | BCSF22M031 | System architecture, baseline feature extraction, Random Forest/SVM models, database design |
-| **Muhammad Subhan Ul Haq** | Frontend / Dashboard | BCSF22M043 | Web dashboard development, visualization, UI/UX design, documentation |
-
-### Contact Information
-
-- **Muhammad Moin U Din**: bcsf22m023@pucit.edu.pk | 0302-8791634
-- **Muhammad Junaid Malik**: bcsf22m031@pucit.edu.pk | 0326-5869774
-- **Muhammad Subhan Ul Haq**: bcsf22m043@pucit.edu.pk | 0333-8133811
+| Name | Registration # | Email | Contact |
+|------|----------------|-------|---------|
+| **Muhammad Moin U Din** (Group Leader) | BCSF22M023 | bcsf22m023@pucit.edu.pk | 0302-8791634 |
+| **Muhammad Junaid Malik** | BCSF22M031 | bcsf22m031@pucit.edu.pk | 0326-5869774 |
+| **Muhammad Subhan Ul Haq** | BCSF22M043 | bcsf22m043@pucit.edu.pk | 0333-8133811 |
 
 ---
 
@@ -247,4 +241,4 @@ This project is developed as part of the Final Year Project (FYP) at the Departm
 
 ---
 
-**✨ Trackifyr — Monitoring cognitive load through natural activity analysis.**
+**✨ trackifyr — Monitoring cognitive load through natural activity analysis.**
